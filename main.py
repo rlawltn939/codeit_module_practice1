@@ -4,3 +4,4 @@ print(calc.PI)           # 3.14
 print(calc.add(1, 2))    # 3
 print(calc.mul(4, 5))    # 20
 print(calc.div(10, 0))   # None
+print(calc.add(1, 2)) 
